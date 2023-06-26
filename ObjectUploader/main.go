@@ -12,9 +12,9 @@ import (
 
 const (
 	// Change these values to match your GCP project and bucket details
-	projectID       = "test-1-391004"
-	bucketName      = "test-1-391004"
-	credentialsFile = "test-1-391004-4f697eab01bf.json"
+	projectID       = ""
+	bucketName      = ""
+	credentialsFile = ""
 )
 
 func main() {
